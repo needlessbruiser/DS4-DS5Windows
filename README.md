@@ -40,10 +40,6 @@ Note: The Website Is No Longer Working
 
 [Twitter @ds4windows](https://twitter.com/officialds4windows)  
 
-### Other
-
-[Backloggery](https://backloggery.com/ryochan7)
-
 ## Installation Tutorial
 
 The Installation and Setup Guide can be found here: https://ds4-windows.org/getting-started/
